@@ -1,0 +1,1 @@
+/usr/bin/c++   -O3 -DNDEBUG    CMakeFiles/Thread.dir/home/rtc/Nishant/Logger/src/main.cpp.o CMakeFiles/Thread.dir/home/rtc/Nishant/Logger/src/cond_var.cpp.o CMakeFiles/Thread.dir/home/rtc/Nishant/Logger/src/Lock/Mutex.cpp.o  -o Thread -rdynamic -lpthread 
